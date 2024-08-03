@@ -1,0 +1,1 @@
+{"name":"Local: prime","url":"g:\\Phitron\\Module-15.5\\prime.c","tests":[{"id":1698550481369,"input":"3\n2\n4\n8","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-15.5\\prime.c","group":"local","local":true}

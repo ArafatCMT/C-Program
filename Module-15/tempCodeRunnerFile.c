@@ -1,0 +1,1 @@
+printf("main er x er value - %d\n",x);

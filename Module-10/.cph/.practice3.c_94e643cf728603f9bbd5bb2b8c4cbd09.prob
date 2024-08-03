@@ -1,0 +1,1 @@
+{"name":"Local: practice3","url":"g:\\Phitron\\Module-10\\practice3.c","tests":[{"id":1697426441416,"input":"351","output":"9"},{"id":1697426477351,"input":"12345","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-10\\practice3.c","group":"local","local":true}

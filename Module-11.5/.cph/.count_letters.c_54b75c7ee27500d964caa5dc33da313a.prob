@@ -1,0 +1,1 @@
+{"name":"Local: count_letters","url":"g:\\Phitron\\Module-11.5\\count_letters.c","tests":[{"id":1698988403052,"input":"arafat","output":"a : 3\nf : 1\nr : 1\nt : 1"},{"id":1701273276560,"input":"aaabbc","output":"a : 3\nb : 2\nc : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-11.5\\count_letters.c","group":"local","local":true}

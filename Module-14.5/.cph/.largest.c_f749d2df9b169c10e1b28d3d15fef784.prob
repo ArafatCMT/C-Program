@@ -1,0 +1,1 @@
+{"name":"Local: largest","url":"g:\\Phitron\\Module-14.5\\largest.c","tests":[{"id":1698510444226,"input":"5\n10 13 95 1 3","output":"1 95"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-14.5\\largest.c","group":"local","local":true}

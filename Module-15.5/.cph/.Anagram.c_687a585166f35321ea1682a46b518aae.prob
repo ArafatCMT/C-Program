@@ -1,0 +1,1 @@
+{"name":"Local: Anagram","url":"g:\\Phitron\\Module-15.5\\Anagram.c","tests":[{"id":1698587947154,"input":"rat\nart","output":"rat and art are Anagram."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-15.5\\Anagram.c","group":"local","local":true}

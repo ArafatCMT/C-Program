@@ -1,0 +1,1 @@
+{"name":"Local: problem","url":"g:\\Phitron\\Module-19\\problem.c","tests":[{"id":1699089511561,"input":"abba","output":"YES"},{"id":1699089519520,"input":"madam","output":"YES"},{"id":1699089529760,"input":"abcd","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-19\\problem.c","group":"local","local":true}

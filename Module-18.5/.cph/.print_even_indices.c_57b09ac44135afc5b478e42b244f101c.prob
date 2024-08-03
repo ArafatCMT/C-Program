@@ -1,0 +1,1 @@
+{"name":"Local: print_even_indices","url":"g:\\Phitron\\Module-18.5\\print_even_indices.c","tests":[{"id":1698939502517,"input":"4\n1 4 2 7","output":"2 1"},{"id":1698939518704,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phitron\\Module-18.5\\print_even_indices.c","group":"local","local":true}
